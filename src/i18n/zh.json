@@ -1,0 +1,130 @@
+{
+  "personal": {
+    "name": "曾柳青",
+    "nameCn": "曾柳青",
+    "nameEn": "Vera",
+    "title": "产品经理",
+    "summary": "数据驱动的产品经理，擅长广告商业化、增长策略与 AIGC 产品设计。",
+    "tagline": "数据驱动的产品思考者，热爱 AI 与增长",
+    "bio": "3年+ 互联网商业化产品经验，先后任职于阿里国际 Lazada 与腾讯微信广告。深耕展示广告、信息流广告与社交广告领域，主导过多个从 0 到 1 的产品项目。具备商业分析硕士背景，擅长将数据洞察转化为产品策略。",
+    "infoItems": [
+      { "label": "出生", "value": "1999.09", "icon": "✦" },
+      { "label": "所在地", "value": "中国 深圳", "icon": "📍" },
+      { "label": "电话", "value": "+86 136-0285-9045", "icon": "📱" },
+      { "label": "邮箱", "value": "liuqing.zeng@outlook.com", "icon": "✉️" }
+    ],
+    "highlights": [
+      { "label": "行业经验", "value": "3年+ 互联网广告" },
+      { "label": "专业方向", "value": "商业化产品 · 增长" },
+      { "label": "技术兴趣", "value": "AIGC · 数据分析" },
+      { "label": "教育背景", "value": "港大硕士 · 华工本科" }
+    ],
+    "nextPage": "查看我的项目 →"
+  },
+  "tabs": {
+    "intro": "个人简介",
+    "projects": "Vibe Coding",
+    "library": "AI 学习库"
+  },
+  "sections": {
+    "basicInfo": "基本信息",
+    "education": "教育背景",
+    "experience": "工作经历",
+    "timeline": "教育背景 & 工作经历"
+  },
+  "education": {
+    "items": [
+      {
+        "school": "香港大学",
+        "degree": "商业分析 硕士",
+        "period": "2020 - 2021",
+        "periodShort": "2020"
+      },
+      {
+        "school": "华南理工大学",
+        "degree": "国际经济与贸易 本科",
+        "period": "2017 - 2021",
+        "periodShort": "2017"
+      }
+    ]
+  },
+  "experience": {
+    "items": [
+      {
+        "company": "腾讯",
+        "role": "微信广告 · 产品经理",
+        "period": "2024.02 - 至今",
+        "periodShort": "2024",
+        "highlights": [
+          "负责企微链路专项能力迭代，打通广告转化全链路",
+          "负责朋友圈流量版位收入提升策略，驱动核心版位营收增长"
+        ]
+      },
+      {
+        "company": "阿里国际 · Lazada",
+        "role": "商业化产品经理",
+        "period": "2021.12 - 2024.02",
+        "periodShort": "2021",
+        "highlights": [
+          "负责展示广告产品升级——重新设计广告样式、定向和出价策略，提升广告主 ROI",
+          "主导投放端 AIGC 答疑机器人专项，降低客服工单量，提升广告主自助投放体验"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "subtitle": "Vibe Coding 打造的个人项目",
+    "viewProject": "查看",
+    "nextPage": "探索 AI 学习库 →",
+    "items": [
+      {
+        "title": "项目一",
+        "description": "即将上线——敬请期待更多 Vibe Coding 实验作品。",
+        "techStack": ["React", "TypeScript", "AI"],
+        "status": "即将上线"
+      },
+      {
+        "title": "项目二",
+        "description": "即将上线——更多创意作品正在路上。",
+        "techStack": ["Next.js", "AI", "Design"],
+        "status": "即将上线"
+      }
+    ]
+  },
+  "library": {
+    "subtitle": "精选 AI 资源、我喜欢的人和产品",
+    "viewLink": "查看",
+    "sections": [
+      {
+        "title": "精选视频",
+        "items": [
+          {
+            "name": "即将更新",
+            "description": "精心策划的 AI 必看视频和演讲合集。",
+            "tag": "视频"
+          }
+        ]
+      },
+      {
+        "title": "我喜欢的人",
+        "items": [
+          {
+            "name": "即将更新",
+            "description": "那些启发我的思考者、构建者和创造者。",
+            "tag": "人物"
+          }
+        ]
+      },
+      {
+        "title": "我喜欢的产品",
+        "items": [
+          {
+            "name": "即将更新",
+            "description": "展现卓越设计与创新的产品。",
+            "tag": "产品"
+          }
+        ]
+      }
+    ]
+  }
+}

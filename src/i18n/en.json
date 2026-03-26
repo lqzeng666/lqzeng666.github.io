@@ -1,0 +1,130 @@
+{
+  "personal": {
+    "name": "Vera",
+    "nameCn": "曾柳青",
+    "nameEn": "Vera",
+    "title": "Product Manager",
+    "summary": "Data-driven PM with expertise in ad monetization, growth strategy & AIGC product design.",
+    "tagline": "Data-driven product thinker, passionate about AI & growth",
+    "bio": "3+ years of internet commercialization product experience at Alibaba International (Lazada) and Tencent (WeChat Ads). Deep expertise in display advertising, feed ads, and social advertising. Led multiple 0-to-1 product initiatives. Master's in Business Analytics with strong data-to-strategy translation skills.",
+    "infoItems": [
+      { "label": "Birth", "value": "1999.09", "icon": "✦" },
+      { "label": "Base", "value": "Shenzhen, China", "icon": "📍" },
+      { "label": "Phone", "value": "+86 136-0285-9045", "icon": "📱" },
+      { "label": "Email", "value": "liuqing.zeng@outlook.com", "icon": "✉️" }
+    ],
+    "highlights": [
+      { "label": "Industry", "value": "3yr+ Internet Ads" },
+      { "label": "Focus", "value": "Monetization · Growth" },
+      { "label": "Interest", "value": "AIGC · Data Analytics" },
+      { "label": "Education", "value": "HKU M.S. · SCUT B.A." }
+    ],
+    "nextPage": "View My Projects →"
+  },
+  "tabs": {
+    "intro": "Self Intro",
+    "projects": "Vibe Coding",
+    "library": "AI Library"
+  },
+  "sections": {
+    "basicInfo": "Basic Info",
+    "education": "Education",
+    "experience": "Work Experience",
+    "timeline": "Education & Experience"
+  },
+  "education": {
+    "items": [
+      {
+        "school": "The University of Hong Kong",
+        "degree": "Master of Science — Business Analytics",
+        "period": "2020 - 2021",
+        "periodShort": "2020"
+      },
+      {
+        "school": "South China University of Technology",
+        "degree": "Bachelor — International Economics & Trade",
+        "period": "2017 - 2021",
+        "periodShort": "2017"
+      }
+    ]
+  },
+  "experience": {
+    "items": [
+      {
+        "company": "Tencent",
+        "role": "WeChat Ads — Product Manager",
+        "period": "2024.02 - Present",
+        "periodShort": "2024",
+        "highlights": [
+          "Led WeCom (Enterprise WeChat) integration for ad conversion workflows, driving iterative improvements on the full-link capability",
+          "Owned Moments ad inventory monetization strategy, driving revenue uplift for the core placement"
+        ]
+      },
+      {
+        "company": "Alibaba International — Lazada",
+        "role": "Commercialization Product Manager",
+        "period": "2021.12 - 2024.02",
+        "periodShort": "2021",
+        "highlights": [
+          "Drove display advertising product upgrades — redesigned ad formats, targeting, and bidding to improve advertiser ROI",
+          "Built AIGC-powered Q&A chatbot for the advertiser platform, reducing support tickets and improving self-serve onboarding"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "subtitle": "Side projects built with vibe coding",
+    "viewProject": "View",
+    "nextPage": "Explore AI Library →",
+    "items": [
+      {
+        "title": "Project 1",
+        "description": "Coming soon — stay tuned for exciting vibe coding experiments.",
+        "techStack": ["React", "TypeScript", "AI"],
+        "status": "Coming Soon"
+      },
+      {
+        "title": "Project 2",
+        "description": "Coming soon — more creative builds on the way.",
+        "techStack": ["Next.js", "AI", "Design"],
+        "status": "Coming Soon"
+      }
+    ]
+  },
+  "library": {
+    "subtitle": "Curated AI resources, inspiring people, and products I love",
+    "viewLink": "View",
+    "sections": [
+      {
+        "title": "Featured Videos",
+        "items": [
+          {
+            "name": "Coming Soon",
+            "description": "A curated collection of must-watch AI videos and talks.",
+            "tag": "Video"
+          }
+        ]
+      },
+      {
+        "title": "People I Like",
+        "items": [
+          {
+            "name": "Coming Soon",
+            "description": "Thinkers, builders, and creators who inspire me.",
+            "tag": "People"
+          }
+        ]
+      },
+      {
+        "title": "Products I Like",
+        "items": [
+          {
+            "name": "Coming Soon",
+            "description": "Products that showcase exceptional design and innovation.",
+            "tag": "Product"
+          }
+        ]
+      }
+    ]
+  }
+}
